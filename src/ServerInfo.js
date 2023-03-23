@@ -13,9 +13,9 @@
 \******************************************/
 
 class ServerInfo {
-    static rakNetProtocolVersion = 11;
-    static minecraftProtocolVersion = 568;
-    static minecraftVersion = "1.19.63";
+    static rakNetProtocolVersion = 6;
+    static minecraftProtocolVersion = 575;
+    static minecraftVersion = "1.19.71";
     static engine = "BlueBirdMC-Server";
     static apiVersion = "0.1.0";
 }
