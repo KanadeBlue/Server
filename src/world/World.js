@@ -61,7 +61,7 @@ class World {
     async saveChunk(x, z) {}
 
     getGenerator() {
-        return this.generatorManager.getGenerator("overworld");
+        return this.generatorManager.getGenerator("flat");
     }
 
     getBlockRuntimeID(x, y, z, layer) {
